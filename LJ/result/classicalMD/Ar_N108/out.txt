@@ -1,0 +1,31 @@
+********************************************************
+  Equil MD simulation: 2D Raman Response of liquid Ar
+********************************************************
+Job id: 0
+Input file: Ar108_eq_0.dat
+Config # 0 is retrieved.
+Job finished 10%. 
+Job finished 20%. 
+Job finished 30%. 
+Job finished 40%. 
+Job finished 50%. 
+Job finished 60%. 
+Job finished 70%. 
+Job finished 80%. 
+Job finished 90%. 
+Job finished 100%. 
+Radial distribution function of 200 Bins, and dr = 0.0128248196001
+    <KE>   = 158.865186314
+    sigma_KE = 7.64926418573
+*********************************************
+# eq configs averaged = 10000
+LEN_TRAJ_EQ = 100000
+LEN_TRAJ = 20000
+DT (reduced unit) = 0.0025
+skip steps for initial CONFIG = 100
+STEPS = 10
+Atomic polaizability (Angstrom^3) = 1.63
+DID order = 1
+Response fn's time range t1 or t2 = 0 ... 108 ps
+  Delta t=0.054 ps
+*********************************************

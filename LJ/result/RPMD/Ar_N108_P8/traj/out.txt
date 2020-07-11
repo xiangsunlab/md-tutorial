@@ -1,0 +1,40 @@
+***********************************************************
+  Ring-Polymer Molecular Dynamics for LJ liquid: TRAJ
+***********************************************************
+TRPMD, thermostat to higher freq normal modes, not to centroid.
+>>> job id: 0
+Input RPMD config retrived: RPMD8_LJ_108_eq_0.dat
+Job finished 10%.  Local time: Fri Jul 10 18:09:54 2020
+
+Job finished 20%.  Local time: Fri Jul 10 18:10:12 2020
+
+Job finished 30%.  Local time: Fri Jul 10 18:10:30 2020
+
+Job finished 40%.  Local time: Fri Jul 10 18:10:48 2020
+
+Job finished 50%.  Local time: Fri Jul 10 18:11:06 2020
+
+Job finished 60%.  Local time: Fri Jul 10 18:11:24 2020
+
+Job finished 70%.  Local time: Fri Jul 10 18:11:42 2020
+
+Job finished 80%.  Local time: Fri Jul 10 18:12:00 2020
+
+Job finished 90%.  Local time: Fri Jul 10 18:12:18 2020
+
+Job finished 100%.  Local time: Fri Jul 10 18:12:37 2020
+
+>>> avg kT = 8.0146019
+    <KE>   = 10386.924
+    sigma_KE = 277.74017
+    sigma_KE(NVE) = sqrt(1/3N*n) <KE> = 204.01846
+    <KE_virial>   = 165.23274
+    sigma_KE_virial = 0.27930158
+Radial distribution function of 200 Bins, and dr = 0.01282482
+***********************************************************
+Output config. file: FINAL_RPMD8_LJ_108_eq_0.dat
+# eq configs = 10000
+LEN_TRAJ_EQ = 100000
+STEPS = 10
+DT (reduced unit) = 0.0025
+***********************************************************
