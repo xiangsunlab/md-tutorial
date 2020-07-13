@@ -1,7 +1,7 @@
 
 N is the number of particles, P is the number of beads each particle
 
-classical MD
+classical MD, time step=0.0025 \tau_{LJ}, steps=10.
 
 (1) init structure
 Ar{N}_eq_0.dat
